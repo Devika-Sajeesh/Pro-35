@@ -5,8 +5,8 @@ var dogImg, happyDogImg;
 
 function preload()
 {
-  dogImg = loadImage("images/dogImg1.png");
-  happyDogImg = loadImage("images/dogImg.png");
+  dogImg = loadImage("dogImg1.png");
+  happyDogImg = loadImage("dogImg.png");
 }
 
 function setup() {
