@@ -53,6 +53,7 @@ function draw() {
   textSize(18);
   text("Food remaining : "+foodS,170,350);
 
+  
 }
 
 
